@@ -25,7 +25,7 @@ criaCartao(
 criaCartao(
     'Matemática',
     'Quantas casas decimais tem o número pi?',
-    'O número po tem infinitas casas decimais'
+    'O número pi tem infinitas casas decimais'
 )
 
 criaCartao(
